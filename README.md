@@ -1,1 +1,4 @@
 # DataAnalysisPortfolioProjects
+
+## OUTPUTS 
+** ADDED THE SAMPLE SCREENSHORT CHART TEMPLATES **
